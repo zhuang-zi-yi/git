@@ -12,6 +12,8 @@ git init //用来初始化本地库<br>
 新增文件基础命令vim hello.txt<br>
 yy是复制p是粘贴<br>
 cat hello.txt是查看此文本内容<br>
+<p color = red>将本地仓库中东西放进预存区基础指令git add (跟你的文件名称)</p><br>
+将暂存区里的文件删除进工作区git rm --cached (文件名)<br>
 
 
 
