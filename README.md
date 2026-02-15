@@ -19,6 +19,11 @@ cat hello.txt是查看此文本内容<br>
 提交本地库 git commit （"日志信息"） （文件名）<br>
 查看版本历史信息指令git refolog<br>
 查看历史版本信息更详细质令git log<br>
+觉得当前代码写的不够好可以进行版本穿梭<br>
+基础指令git reset --hard 版本号<br>
+<img width="586" height="411" alt="QQ_1771152519993" src="https://github.com/user-attachments/assets/193c62e6-7f57-42e6-aa38-14373f2d228b" /><br>
+zzzzzzzzzzzzzzzz
+
 
 
 
