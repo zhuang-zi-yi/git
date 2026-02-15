@@ -22,7 +22,13 @@ cat hello.txt是查看此文本内容<br>
 觉得当前代码写的不够好可以进行版本穿梭<br>
 基础指令git reset --hard 版本号<br>
 <img width="586" height="411" alt="QQ_1771152519993" src="https://github.com/user-attachments/assets/193c62e6-7f57-42e6-aa38-14373f2d228b" /><br>
-zzzzzzzzzzzzzzzz
+什么是分支:在版本控制中,同时推进多个任务，为每个任务，我们可以创建每个任务的分支。使用分支意味着程序员可以把自己工作从主线分离开来，来开发自己分支时候，不会影响主线分支运行<br>
+分支的操作:
+<img width="596" height="200" alt="cc2b73d9d98bb3a2a165fe7336874595" src="https://github.com/user-attachments/assets/f6a57149-177e-439e-bc80-5ed843e93d49" /><br>
+查看分支 git branch-v<br>
+创建分支 git branch 分支名字<br>
+切换分支 git checkout 分支名字<br>
+ 
 
 
 
