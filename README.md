@@ -45,7 +45,12 @@ cat hello.txt是查看此文本内容<br>
  git remote add <名称> <链接>  别名远程地址<br>
  <img width="582" height="180" alt="QQ_1771676004172" src="https://github.com/user-attachments/assets/ef80d918-9eb1-4862-a57e-33a8c4ec8bf2" /><br>
  推送本地分支到远程仓库<br>
- 基础语法git push 别名 分支
+ 基础语法git push 别名 分支 》把本地库里的东西放进库里<br>
+ 从远程仓库拉取到本地<br>
+ git pull <别名> 分支 // 把远程库放进本地库<br>
+ 当刚刚克隆git clone以后会帮你取别名叫做origin（默认）<br>
+ 
+ 
 
 
 
