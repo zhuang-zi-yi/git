@@ -49,6 +49,8 @@ cat hello.txt是查看此文本内容<br>
  从远程仓库拉取到本地<br>
  git pull <别名> 分支 // 把远程库放进本地库<br>
  当刚刚克隆git clone以后会帮你取别名叫做origin（默认）<br>
+ 点击这个让远程库选择准备接受<img width="1049" height="483" alt="image" src="https://github.com/user-attachments/assets/f08a1299-a11c-41ba-9f29-34cff46b4f5e" />
+
  
  
 
