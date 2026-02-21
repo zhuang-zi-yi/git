@@ -33,7 +33,21 @@ cat hello.txt是查看此文本内容<br>
 代码冲突：在同一文件和同一位置有了两套的不同意见修改。git无法帮我们决定用哪一个就必须人为修改
 <img width="597" height="436" alt="QQ_1771159862576" src="https://github.com/user-attachments/assets/8086ed2a-2e39-4b59-be28-fe25a74c14f9" /><br>
 图片后面的master|nerging的意思是二者文件正在合并中当前提交本地库不能带<文件名>因为git不知道是主分支修改文件,还是分支修改文件
-文件提交后会回到master.
+文件提交后会回到master.<br>
+ fork复制到别人的远程库里面<br>
+ pull request 拉取请求<br>
+ merge 合并<br>
+ <img width="1070" height="577" alt="QQ_1771675250635" src="https://github.com/user-attachments/assets/286a765a-a229-45bd-a12e-6a33f25e5211" /><br>
+ 远程库操作<br>
+ <img width="543" height="179" alt="image" src="https://github.com/user-attachments/assets/b05bce3d-a859-4153-9175-a8e805ef060e" /><br>
+ 创建远程库别名<br>
+ git remote -v查看当前所有远程地址别名<br>
+ git remote add <名称> <链接>  别名远程地址<br>
+ <img width="582" height="180" alt="QQ_1771676004172" src="https://github.com/user-attachments/assets/ef80d918-9eb1-4862-a57e-33a8c4ec8bf2" /><br>
+ 推送本地分支到远程仓库<br>
+ 基础语法git push 别名 分支
+
+
 
 
 
